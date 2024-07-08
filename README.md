@@ -2,6 +2,9 @@
 
 BlinkTalk is a computer vision project designed to help quadriplegic patients communicate by detecting eye blinks and translating them into Morse code, which is then converted into English text.
 
+# Demo
+https://youtu.be/8VdZqmKrvvo
+
 ## Table of Contents
 
 - [Features](#features)
